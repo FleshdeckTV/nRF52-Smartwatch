@@ -1,0 +1,1 @@
+Alarm Hour:8;Alarm Minute:45;Alarm ON/OFF:0;Screen ON Time:5000;Activity Send Time:5;Screen Brightness:50;

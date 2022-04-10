@@ -1,0 +1,1 @@
+CycleCount:1609;Rcomp0:26;TempCo:8766;Fullchcap:3192;Fullcapnom:3003;
