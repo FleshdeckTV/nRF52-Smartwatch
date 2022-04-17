@@ -6,8 +6,8 @@ Here you can find PCB files, software and some instructions.
 
 Due to the current situation in Ukraine, I cannot continue working on the project at the moment, as soon as the war ends I will continue to work, you can support the project by donating to a crypto wallet or Patreon:
 
-*BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
-*ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
+* BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
+* ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
 
 # In Future
 * Go to more available components
