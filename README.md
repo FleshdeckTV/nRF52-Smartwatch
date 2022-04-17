@@ -4,11 +4,10 @@
 ## The instructions will be updated
 Here you can find PCB files, software and some instructions.
 
-Due to the current situation in Ukraine, I can not continue working on the project at the moment, as soon as the war ends, 
-I will continue to work, if you want to support project:
+Due to the current situation in Ukraine, I cannot continue working on the project at the moment, as soon as the war ends I will continue to work, you can support the project by donating to a crypto wallet or Patreon:
 
-BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
-ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
+*BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
+*ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
 
 # In Future
 * Go to more available components
@@ -46,11 +45,11 @@ ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
 * OTA update
 
 
-You will need to install:
-[Arduino Core for Adafruit Bluefruit nRF52 Boards V1.0.0](https://github.com/adafruit/Adafruit_nRF52_Arduino)
-[Segger Embedded Studio Version 5.60a](https://www.segger.com/downloads/embedded-studio/)
+# You will need to install:
+-[Arduino Core for Adafruit Bluefruit nRF52 Boards V1.0.0](https://github.com/adafruit/Adafruit_nRF52_Arduino)
+-[Segger Embedded Studio Version 5.60a](https://www.segger.com/downloads/embedded-studio/)
 It will also be required:
-J-Link or Black Magic Probe for programming bootloader/
+-J-Link or Black Magic Probe for programming bootloader/
 
 After installation Adafruit nRF52 Core V1.0.0 need to replace the files 
 in the folder \AppData\Local\Arduino15\packages\adafruit\hardware\nrf52
