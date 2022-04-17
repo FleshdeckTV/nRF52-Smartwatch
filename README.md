@@ -8,14 +8,6 @@ Due to the current situation in Ukraine, I cannot continue working on the projec
 * BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
 * ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
 
-# In Future
-* Go to more available components
-* Make other buttons for case(I bought buttons in a local store, but in Ukraine there is a war with Russia and the store will not work)
-* Add NFC antena
-* Add a pulse oximeter(MAXM86146)
-* Draw more app and weather icons
-* Using other displays
-
 # Hardware
 
 * nRF52840(Holyiot-18010)
@@ -42,6 +34,14 @@ Due to the current situation in Ukraine, I cannot continue working on the projec
 * Flashlight mode
 * Find phone function
 * OTA update
+
+# In Future
+* Go to more available components
+* Make other buttons for case(I bought buttons in a local store, but in Ukraine there is a war with Russia and the store will not work)
+* Add NFC antena
+* Add a pulse oximeter(MAXM86146)
+* Draw more app and weather icons
+* Using other displays
 
 
 # You will need to install:
