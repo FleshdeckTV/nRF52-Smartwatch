@@ -1,11 +1,10 @@
 # nRF52-Smartwatch
-![banner](banner.png)
+![banner](banner.jpg)
 
 ## The instructions will be updated
 Here you can find PCB files, software and some instructions.
 
-Due to the current situation in Ukraine, I can not continue working 
-on the project at the moment, as soon as the war ends, 
+Due to the current situation in Ukraine, I can not continue working on the project at the moment, as soon as the war ends, 
 I will continue to work, if you want to support project:
 
 BTC 1Fx1nvSsfxKMsXz7BsxxJzk7NQdWSS86Fd
@@ -13,8 +12,7 @@ ETH 0xfeb67dc42bdb4252a39f2cb6f8ca42f192d4d32d
 
 # In Future
 * Go to more available components
-* Make other buttons for case(I bought buttons in a local store, 
-but in Ukraine there is a war with Russia and the store will not work)
+* Make other buttons for case(I bought buttons in a local store, but in Ukraine there is a war with Russia and the store will not work)
 * Add NFC antena
 * Add a pulse oximeter(MAXM86146)
 * Draw more app and weather icons
