@@ -1,7 +1,6 @@
 # nRF52-Smartwatch
 ![banner](banner.jpg)
 
-## The instructions will be updated
 Here you can find PCB files, software and some instructions.
 
 Due to the current situation in Ukraine, I cannot continue working on the project at the moment, as soon as the war ends I will continue to work, you can support the project by donating to a crypto wallet or Patreon:
@@ -49,9 +48,9 @@ Due to the current situation in Ukraine, I cannot continue working on the projec
 - [Arduino Core for Adafruit Bluefruit nRF52 Boards V1.0.0](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 - [Segger Embedded Studio Version 5.60a](https://www.segger.com/downloads/embedded-studio/)
 It will also be required:
-- J-Link or Black Magic Probe for programming bootloader/
+- J-Link or Black Magic Probe for programming bootloader
 
 After installation Adafruit nRF52 Core V1.0.0 need to replace the files 
 in the folder \AppData\Local\Arduino15\packages\adafruit\hardware\nrf52
 And also add the necessary libraries
-
+## The instructions will be updated
